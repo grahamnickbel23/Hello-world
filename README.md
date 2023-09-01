@@ -2,7 +2,7 @@
 <img src="https://th.bing.com/th/id/OIG.Gv9A6Vi4.Jd6MA8X0Niu?pid=ImgGn" alt="Artistic Impression" width="300">
 </center>
 <div style="text-align: center;">
-  <img src="https://th.bing.com/th/id/OIG.Gv9A6Vi4.Jd6MA8X0Niu?pid=ImgGn" alt="Artistic Impression">
+  <img src="https://th.bing.com/th/id/OIG.Gv9A6Vi4.Jd6MA8X0Niu?pid=ImgGn" alt="Artistic Impression" styl="Width: 300px; Hight:Auto;">
 </div>
 
 This a depisitory of code for my 1st website. All code of this website is written by me and coppied from a YouTube channel called BroCode. As we where we keep on learning new things, new new pages will keep on getting added. 
