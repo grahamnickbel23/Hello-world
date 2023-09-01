@@ -1,6 +1,3 @@
-<center>
-<img src="https://th.bing.com/th/id/OIG.Gv9A6Vi4.Jd6MA8X0Niu?pid=ImgGn" alt="Artistic Impression" width="300">
-</center>
 <div style="text-align: center;">
   <img src="https://th.bing.com/th/id/OIG.Gv9A6Vi4.Jd6MA8X0Niu?pid=ImgGn" alt="Artistic Impression" styl="Width: 300px; Hight:Auto;">
 </div>
