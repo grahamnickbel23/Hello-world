@@ -21,23 +21,16 @@
     <hr>
    <main>
     <h2>Fill up this from with required information</h2><br>
-    
-    <form action="index.php" method="post" enctype="multipart/form-data">
-
+    <from  action="index.php" method="post" enctype="multipart/form-data">
         <label for="username">username :</label>
         <input type="text" id="username" placeholder="Your name" minlength="5" maxlength="100" required><br><br>
-
         <label for="password">password :</label>
         <input type="password" id="password" placeholder="password" required maxlength="15" minlength="10"><br><br>
-
         <label for="Phone">Phone :</label>
         <input type="tel" is="phone" placeholder="123-456-7890" pattern="[0-9{3}[0-9]{3}[0-9]{4}" required><br><br>
-        
         <label for="emial">E-mail :</label>
         <input type="email" id="emial" placeholder="adc@host.com" required>
-    </form>
-
-    </form>
+    </from>
    </main><br>
    <hr>
     <footer>
