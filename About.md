@@ -20,20 +20,15 @@
     <main>
         <h2>Fill the form</h2>
         <from action="index.php" enctype="multipart" method="post">
-
-            <label for="username">username :</label>
-            <input type="text" id="username" placeholder="Your Name" maxlength="25" required><br><br>
-
-            <label for="password">password :</label>
-            <input type="password" id="password" placeholder="password" maxlength="25" required><br><br>
-
-            <label for="email">email :</label>
-            <input type="email" id="email" placeholder="abcd@hotmail.com" required><br><br>
-
-            <label for="phone">phone :</label>
-            <input type="tel" id="phone" placeholder="012-345-6789" maxlength="10" minlength="10" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" required><br><br>
-
-        </from>
+        <label for="username">username :</label>
+        <input type="text" id="username" placeholder="Your Name" maxlength="25" required><br><br>
+        <label for="password">password :</label>
+        <input type="password" id="password" placeholder="password" maxlength="25" required><br><br>
+        <label for="email">email :</label>
+        <input type="email" id="email" placeholder="abcd@hotmail.com" required><br><br>
+        <label for="phone">phone :</label>
+        <input type="tel" id="phone" placeholder="012-345-6789" maxlength="10" minlength="10" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" required><br><br>
+      </from>
     </main>
     <hr>
     <footer>
