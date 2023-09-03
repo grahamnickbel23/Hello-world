@@ -16,7 +16,9 @@ p{
     background-color: rgb(221, 176, 176);
     width:500px;
     height:50px;
-    border: none;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: rgb(112, 68, 68);
 }
 .battelship a{
     text-decoration: none;
