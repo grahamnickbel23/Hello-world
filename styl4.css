@@ -50,6 +50,9 @@ p{
 }
 .navbar1 li{
     float: left;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: rgb(177, 221, 224);
 }
 .navbar1 a:hover{
     background-color: rgb(194, 116, 116);
@@ -73,6 +76,9 @@ p{
 }
 .navbar2 li{
     float: left;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: rgb(154, 196, 224);
 }
 .navbar2 li :hover{
     background-color: rgb(209, 163, 163);
