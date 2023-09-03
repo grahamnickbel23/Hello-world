@@ -27,6 +27,9 @@ p{
 .battelship :hover{
     background-color: rgb(116, 65, 65);
     padding: 20px;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: rgb(88, 35, 35);
 }
 .navbar1 ul {
     background-color: rgb(124, 159, 175);
