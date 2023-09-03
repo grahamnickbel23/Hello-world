@@ -1,0 +1,61 @@
+body{
+    background-color:black;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+h1 a{
+    text-decoration: none;
+    color: white;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color:black;
+    padding:10px;
+    margin:10px;
+}
+.navbar a{
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    background-color:black;
+    padding:10px;
+    margin:10px;
+    overflow: none;
+}
+.navbar li{
+    float:left;
+}
+.navbar a:hover{
+    background-color: rgb(141, 93, 93);
+}
+main h2{
+    text-align: center;
+    color:white;
+    margin: 10px;
+}
+.from25 {
+    color:white;
+    margin:10px;
+    padding:10px;
+}
+.navbar2 ul{
+    list-style-type: none;
+    background-color: black;
+    padding:10px;
+    margin:10px;
+}
+.navbar2 a{
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    margin:10px;
+    padding:10px;
+}
+.navbar2 li{
+    float:left;
+}
+.navbar2 a:hover{
+    background-color: rgb(141, 88, 88);
+}
