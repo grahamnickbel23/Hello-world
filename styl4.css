@@ -1,0 +1,62 @@
+h1{
+    background-color: rgb(128, 180, 144);
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: rgb(218, 178, 202);
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+.battelship{
+    background-color: rgb(221, 176, 176);
+    width:500px;
+    height:50px;
+    border: none;
+}
+.battelship a{
+    text-decoration: none;
+    color: black;
+}
+.battelship :hover{
+    background-color: rgb(116, 65, 65);
+    padding: 20px;
+}
+.navbar1 ul {
+    background-color: rgb(124, 159, 175);
+    text-align: center;
+    list-style-type: none;
+    padding:25px;
+}
+.navbar1 a{
+    text-decoration: none;
+    color: white;
+    padding:35px;
+}
+.navbar1 li{
+    float: left;
+}
+.navbar1 a:hover{
+    background-color: rgb(194, 116, 116);
+}
+.navbar2 ul{
+    background-color: rgb(121, 160, 182);
+    text-align: center;
+    list-style-type: none;
+    padding: 25px;
+}
+.navbar2 a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+.navbar2 li{
+    float: left;
+}
+.navbar2 li :hover{
+    background-color: rgb(209, 163, 163);
+}
